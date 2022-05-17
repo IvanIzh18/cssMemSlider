@@ -1,16 +1,16 @@
-1. Ссылка на задание: 
-https://github.com/rolling-scopes-school/tasks/tree/master/tasks/css-mem-slider
+Ссылка на задание: https://github.com/rolling-scopes-school/tasks/tree/master/tasks/css-mem-slider
 
-2. Скриншот результата выполнения задания:
+Скриншот результата выполнения задания:
 
-версия для ПК - 1280:
-![image](https://user-images.githubusercontent.com/96039558/168684352-b5e1c883-213d-49ce-81e6-0d7d152b67d3.png)
+
+версия для ПК - 1280: 
+![image](https://user-images.githubusercontent.com/96039558/168685814-f3503dca-7a78-47a2-b1b1-11e7ad460da0.png)
+
 мобильная версия - 320:
-![image](https://user-images.githubusercontent.com/96039558/168684474-588adea1-e8fd-4404-966f-a37c8f8a80dd.png)
+![image](https://user-images.githubusercontent.com/96039558/168685859-d94b7a6a-4d90-4dd7-9150-0629d6543074.png)
 
-3. Ссылка выполненную работу:
-https://IvanIzh18.github.io/cssMemSlider/cssMemSlider/index.html
+Ссылка выполненную работу: https://IvanIzh18.github.io/cssMemSlider/cssMemSlider/index.html
 
-4. Дата сдачи / дата дедлайна - 17.05.2022/17.05.2022
+Дата сдачи / дата дедлайна - 17.05.2022/17.05.2022
 
-5. Имеются недочеты: отсутствует анимация, псевдоэлементы кнопок недописаны доконца.
+Имеются недочеты: отсутствует анимация, псевдоэлементы кнопок недописаны доконца.
